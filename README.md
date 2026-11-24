@@ -6,9 +6,9 @@
 
 ## Laboratory Discussion
 
-The project uses separate folders for screens and widgets to make the code more organized and easier to manage. The screens folder contains the Home Screen and News Feed Screen, while the widgets folder contains such as the Custom Text and News Feed Card.
+## The project uses separate folders for screens and widgets to make the code more organized and easier to manage. The screens folder contains the Home Screen and News Feed Screen, while the widgets folder contains such as the Custom Text and News Feed Card.
 
-I also added images and profile avatars to make the newsfeed look more realistic. The images are displayed using Flutter's Image widget, while the profile pictures use CircleAvatar. For the Like button, I used a StatefulWidget so the like count can increase or decrease when clicked. It also has the comment and share button.
+## I also added images and profile avatars to make the newsfeed look more realistic. The images are displayed using Flutter's Image widget, while the profile pictures use CircleAvatar. For the Like button, I used a StatefulWidget so the like count can increase or decrease when clicked. It also has the comment and share button.
 =======
 # aballe_MobProgAY2627_LabAct1
 >>>>>>> ec7c31fcebf65565ce3a519fab93610a91b15ee1
